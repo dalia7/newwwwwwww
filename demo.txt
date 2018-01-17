@@ -1,1 +1,10 @@
-this is a demo file.This is second line of file 
+ tge thirs line in file
+:wq
+
+his is a demo file.This is second line of file 
+hjgh
+this is third line in text
+this is fourth line
+:wq
+
+
